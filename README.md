@@ -2,7 +2,8 @@
 
 ## Identificação
 
-**Nome:** Vitor Felipe Lima Albrecht  
+**Nome:** Vitor e Cibely
+
 **Turma:** Full Stack
 
 ---
